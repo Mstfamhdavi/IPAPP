@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP Ping", "IP Ping\IP Ping.csproj", "{5D16315A-E6C6-4DDC-989F-AA6BD683856F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D16315A-E6C6-4DDC-989F-AA6BD683856F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D16315A-E6C6-4DDC-989F-AA6BD683856F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D16315A-E6C6-4DDC-989F-AA6BD683856F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D16315A-E6C6-4DDC-989F-AA6BD683856F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02F67A3-1F06-4D42-BD72-0CA96DD60A3A}
+	EndGlobalSection
+EndGlobal
